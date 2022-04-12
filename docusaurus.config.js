@@ -15,7 +15,7 @@ const TwitterSvg =
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ddiiwoong',
-  projectName: 'ddiiwoong.github.io',
+  projectName: 'newblog',
   deploymentBranch: 'main',
   trailingSlash: false,
   presets: [
@@ -26,13 +26,13 @@ const TwitterSvg =
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/ddiiwoong/newblog/tree/main/src/docs/',
         },
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
           editUrl:
-            'https://github.com/ddiiwoong/ddiiwoong.github.io/tree/main/src/blog',
+            'https://github.com/ddiiwoong/newblog/tree/main/src/blog',
             blogTitle: 'Cloud Catalyst',
             blogDescription: 'My little thought may as a catalyst in other engineer\'s career',
             postsPerPage: 5,
@@ -108,7 +108,7 @@ const TwitterSvg =
           {to: 'about', label: 'About', position: 'right'},
           {to: 'pang4u', label: 'Pang4u', position: 'right'},  
           {
-            href: 'https://github.com/ddiiwoong/ddiiwoong.github.io',
+            href: 'https://github.com/ddiiwoong/newblog',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
