@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Cloud Catalyst",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "My little thought may as a catalyst in other engineer's career",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "최근 게시물",
+    "description": "The label for the left sidebar"
+  }
+}

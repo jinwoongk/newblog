@@ -1,0 +1,50 @@
+{
+  "link.title.Blog": {
+    "message": "Blog",
+    "description": "The title of the footer links column with title=Blog in the footer"
+  },
+  "link.title.Sponsors": {
+    "message": "Sponsors",
+    "description": "The title of the footer links column with title=Sponsors in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Home": {
+    "message": "Home",
+    "description": "The label of footer link with label=Home linking to /"
+  },
+  "link.item.label.Archive": {
+    "message": "Archive",
+    "description": "The label of footer link with label=Archive linking to archive"
+  },
+  "link.item.label.Tags": {
+    "message": "Tags",
+    "description": "The label of footer link with label=Tags linking to tags"
+  },
+  "link.item.label.Pang4U": {
+    "message": "Pang4U",
+    "description": "The label of footer link with label=Pang4U linking to pang4u"
+  },
+  "link.item.label.Buy Me a Coffee": {
+    "message": "Buy Me a Coffee",
+    "description": "The label of footer link with label=Buy Me a Coffee linking to https://ko-fi.com/ddiiwoong"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/ddiiwoong"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/ddiiwoong"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/ddiiwoong"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://kr.linkedin.com/in/ddiiwoong"
+  }
+}

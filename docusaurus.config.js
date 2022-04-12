@@ -18,6 +18,10 @@ const TwitterSvg =
   projectName: 'newblog',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
+  i18n: {
+    defaultLocale: "ko",
+    locales: ["ko"],
+  },
   presets: [
     [
       '@docusaurus/preset-classic',

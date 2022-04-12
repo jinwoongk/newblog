@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Cloud Catalyst",
+    "description": "The title in the navbar"
+  },
+  "item.label.Posts": {
+    "message": "Posts",
+    "description": "Navbar item with label Posts"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Tags": {
+    "message": "Tags",
+    "description": "Navbar item with label Tags"
+  },
+  "item.label.Presentation": {
+    "message": "Presentation",
+    "description": "Navbar item with label Presentation"
+  },
+  "item.label.Archive": {
+    "message": "Archive",
+    "description": "Navbar item with label Archive"
+  },
+  "item.label.About": {
+    "message": "About",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Pang4u": {
+    "message": "Pang4u",
+    "description": "Navbar item with label Pang4u"
+  },
+  "item.label.Intro": {
+    "message": "Intro",
+    "description": "Navbar item with label Intro"
+  }
+}
