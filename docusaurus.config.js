@@ -16,7 +16,7 @@ const TwitterSvg =
   favicon: 'img/favicon.ico',
   organizationName: 'ddiiwoong',
   projectName: 'newblog',
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   presets: [
     [
