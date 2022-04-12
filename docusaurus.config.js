@@ -62,6 +62,9 @@ const TwitterSvg =
       prism: {
         additionalLanguages: ['powershell'],
       },
+      metadata: [
+        {name: 'naver-site-verification', content: 'cbcc03783e5594725d3951f4e7f16ede80e69881'}
+      ],
       googleAdsense: {
         dataAdClient: 'ca-pub-4362752107119680',
       },
