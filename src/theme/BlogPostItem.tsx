@@ -18,7 +18,7 @@ function BlogPostItem(props) {
       const script = document.createElement("script");
 
       script.src = "https://utteranc.es/client.js";
-      script.setAttribute("repo", "ddiiwoong/ddigiwoon.github.io");
+      script.setAttribute("repo", "ddiiwoong/newblog");
       script.setAttribute("issue-term", "pathname");
       script.setAttribute("label", "comment");
       script.setAttribute("theme", utterancesTheme);
