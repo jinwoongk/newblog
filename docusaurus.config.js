@@ -16,6 +16,7 @@ const TwitterSvg =
   favicon: 'img/favicon.ico',
   organizationName: 'ddiiwoong',
   projectName: 'ddiiwoong.github.io',
+  deploymentBranch: 'main'
   i18n: {
     defaultLocale: "ko",
     locales: ["ko"],
