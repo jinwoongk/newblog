@@ -82,7 +82,7 @@ Ubuntu 또는 Mac admin 환경에서 eksctl 명령어로 로컬 클러스터들�
 
 [공식 홈페이지의 클러스터 생성, 삭제 워크플로우](https://anywhere.eks.amazonaws.com/docs/concepts/clusterworkflow/)를 참고하여 사전 구성된 Homelab에 적용한다. 
 
-![workflow](https://anywhere.eks.amazonaws.com/img/eks-a_create_cluster.png)
+![workflow](https://anywhere.eks.amazonaws.com/images/eks-a_create_cluster.png)
 
 처음에는 eksctl 명령으로 클러스터를 생성하는 과정으로 사전에 생성한 cluster config yaml을 통해 로컬 도커 엔진에 bootstrap을 하는 명령을 내린다. 이때 로컬 도커 엔진에서는 Docker in Docker 엔진인 [kind](https://kind.sigs.k8s.io/)를 통해 클러스터 번들 컨피그를 생성한다. 
 

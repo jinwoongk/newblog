@@ -26,13 +26,13 @@ const TwitterSvg =
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/ddiiwoong/newblog/tree/main/src/docs/',
+          editUrl: 'https://github.com/ddiiwoong/newblog/tree/main',
         },
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
           editUrl:
-            'https://github.com/ddiiwoong/newblog/tree/main/src/blog',
+            'https://github.com/ddiiwoong/newblog/tree/main',
             blogTitle: 'Cloud Catalyst',
             blogDescription: 'My little thought may as a catalyst in other engineer\'s career',
             postsPerPage: 5,
@@ -55,12 +55,15 @@ const TwitterSvg =
       }),
     ],
   ],
-
+  plugins: ['docusaurus-plugin-google-adsense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       prism: {
         additionalLanguages: ['powershell'],
+      },
+      googleAdsense: {
+        dataAdClient: 'ca-pub-4362752107119680',
       },
       algolia: {
         appId: 'J5EMWGFKQM',
