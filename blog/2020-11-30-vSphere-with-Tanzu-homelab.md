@@ -17,6 +17,8 @@ tags:
 
 스타트업으로 이직후 정신없는 6개월을 보냈고 집에서 하는 사이드 프로젝트나 공부하는 것들이 소홀해지는것 같아 마음을 다잡고자 작성하는 포스팅이다. 최근 몇개월 간은 회사 블로그 글만 작성하다보니 개인 블로그를 거의 못하고 있어서 회사 제품과는 아직까지 거리가 있는 플랫폼 공부차 작성한다. 순수하게 정보공유차 작성하는 것이며, 특정회사의 회사의 제품이나 플랫폼을 홍보하고자 함은 아니다.
 
+<!--truncate-->
+
 ## Tanzu
 
 [https://tanzu.vmware.com/content/blog/simplify-your-approach-to-application-modernization-with-4-simple-editions-for-the-tanzu-portfolio](https://tanzu.vmware.com/content/blog/simplify-your-approach-to-application-modernization-with-4-simple-editions-for-the-tanzu-portfolio)  

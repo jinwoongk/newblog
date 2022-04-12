@@ -22,6 +22,8 @@ tags:
 지난 포스팅은 다음 링크에서 확인할 수 있다.
 > 이전글 - [vSphere with Tanzu homelab running on ASUS PN50 (1/2)](https://ddii.dev/kubernetes/vSphere-with-Tanzu-homelab/)
 
+<!--truncate-->
+
 
 ![vcsa](/img/vcsa.png)
 

@@ -31,6 +31,8 @@ tags:
 지난 포스팅은 다음 링크에서 확인할 수 있다.
 > 이전글 - [vSphere homelab 환경에서 EKS Anywhere 구성하기](https://ddii.dev/kubernetes/eks-anywhere/)
 
+<!--truncate-->
+
 ## EKS Connector
 
 EKS Connector를 통해 EKS Anywhere를 포함한 외부의 모든 클러스터를 AWS 콘솔에 연결할 수 있다. eks connector 컨테이너를 통해 proxy 형태로 외부 쿠버네티스 클러스터의 API서버에서 정보를 가져와 AWS System Manager로 전달하는 비동기 방식으로 워크로드 관리를 진행한다.

@@ -22,6 +22,8 @@ tags:
 
 확인해보니 tailscale은 wireguard 기반으로 하는 동일 기술의 상용 솔루션이였고, 이에 몇가지 공부차 정리를 위해 해당 포스트를 작성하게 되었다. 
 
+<!--truncate-->
+
 ## Wireguard
 
 - [https://www.wireguard.com/](https://www.wireguard.com/)
