@@ -55,7 +55,7 @@ const TwitterSvg =
         gtag: {
           trackingID: 'G-4ZT898XDT2',
           anonymizeIP: false,
-        },        
+        },      
       }),
     ],
   ],
