@@ -8,7 +8,7 @@ function Comment() {
       const script = document.createElement('script');
 
       script.src = 'https://utteranc.es/client.js';
-      script.setAttribute('repo', 'ddiiwoong/ddiiwoong.github.io');
+      script.setAttribute('repo', 'ddiiwoong/newblog');
       script.setAttribute('issue-term', 'title');
       script.setAttribute('label', 'comment');
       script.setAttribute('theme', 'github-light');
