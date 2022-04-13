@@ -54,8 +54,12 @@ const TwitterSvg =
         sitemap: {},
         gtag: {
           trackingID: 'G-4ZT898XDT2',
-          anonymizeIP: false,
-        },      
+          anonymizeIP: true,
+        },
+        googleAnalytics: {
+          trackingID: 'G-4ZT898XDT2',
+          anonymizeIP: true,
+        }
       }),
     ],
   ],
