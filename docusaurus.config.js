@@ -52,14 +52,6 @@ const TwitterSvg =
           customCss: require.resolve('./src/css/custom.css'),
         },
         sitemap: {},
-        gtag: {
-          trackingID: 'G-4ZT898XDT2',
-          anonymizeIP: true,
-        },
-        googleAnalytics: {
-          trackingID: 'G-4ZT898XDT2',
-          anonymizeIP: true,
-        }
       }),
     ],
   ],
@@ -139,6 +131,14 @@ const TwitterSvg =
           // },
           // {to: 'contact-us', label: 'Contact Us', position: 'right'},
         ],
+      },
+      gtag: {
+        trackingID: 'G-4ZT898XDT2',
+        anonymizeIP: true,
+      },
+      googleAnalytics: {
+        trackingID: 'G-4ZT898XDT2',
+        anonymizeIP: true,
       },
       footer: {
         style: 'light',
