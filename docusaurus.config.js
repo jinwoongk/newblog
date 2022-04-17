@@ -36,10 +36,10 @@ const TwitterSvg =
           trackingID: 'G-4ZT898XDT2',
           anonymizeIP: true,
         },
-        googleAnalytics: {
-          trackingID: 'G-4ZT898XDT2',
-          anonymizeIP: true,
-        },
+              googleAnalytics: {
+        trackingID: 'G-4ZT898XDT2',
+        anonymizeIP: true,
+      },
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
@@ -83,9 +83,6 @@ const TwitterSvg =
   
         // Optional: see doc section below
         contextualSearch: true,
-  
-        // Optional: see doc section below
-        // appId: 'YOUR_APP_ID',
   
         // Optional: Algolia search parameters
         searchParameters: {},
