@@ -32,6 +32,10 @@ const TwitterSvg =
           // Please change this to your repo.
           editUrl: 'https://github.com/ddiiwoong/newblog/tree/main',
         },
+        gtag: {
+          trackingID: 'G-4ZT898XDT2',
+          anonymizeIP: true,
+        },
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
@@ -132,10 +136,6 @@ const TwitterSvg =
           // },
           // {to: 'contact-us', label: 'Contact Us', position: 'right'},
         ],
-      },
-      gtag: {
-        trackingID: 'G-4ZT898XDT2',
-        anonymizeIP: true,
       },
       googleAnalytics: {
         trackingID: 'G-4ZT898XDT2',
