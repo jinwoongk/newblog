@@ -74,15 +74,16 @@ const TwitterSvg =
         indexName: 'blog',
   
         // Optional: see doc section below
-        contextualSearch: false,
+        contextualSearch: true,
   
         // Optional: see doc section below
         // appId: 'YOUR_APP_ID',
   
         // Optional: Algolia search parameters
-        // searchParameters: {},
+        searchParameters: {},
   
         //... other Algolia params
+        searchPagePath: 'search',
       },
       navbar: {
         title: 'Cloud Catalyst',
