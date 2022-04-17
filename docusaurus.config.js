@@ -18,10 +18,10 @@ const TwitterSvg =
   projectName: 'newblog',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
-  i18n: {
-    defaultLocale: "ko",
-    locales: ["ko"],
-  },
+  // i18n: {
+  //   defaultLocale: "ko",
+  //   locales: ["ko"],
+  // },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -33,6 +33,10 @@ const TwitterSvg =
           editUrl: 'https://github.com/ddiiwoong/newblog/tree/main',
         },
         gtag: {
+          trackingID: 'G-4ZT898XDT2',
+          anonymizeIP: true,
+        },
+        googleAnalytics: {
           trackingID: 'G-4ZT898XDT2',
           anonymizeIP: true,
         },
@@ -136,10 +140,6 @@ const TwitterSvg =
           // },
           // {to: 'contact-us', label: 'Contact Us', position: 'right'},
         ],
-      },
-      googleAnalytics: {
-        trackingID: 'G-4ZT898XDT2',
-        anonymizeIP: true,
       },
       footer: {
         style: 'light',
