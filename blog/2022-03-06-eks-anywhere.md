@@ -6,6 +6,8 @@ classes: wide
 description: "vSphere homelab 환경에서 EKS Anywhere 구성하기"
 toc: true
 toc_label: Table of Contents
+slug: kubernetes/eks-anywhere/
+date: 2022-03-06
 categories:
   - Kubernetes
 tags:

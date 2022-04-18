@@ -4,6 +4,8 @@ title: "vSphere with Tanzu homelab running on ASUS PN50 (1/2)"
 comments: true
 classes: wide
 description: "이번 포스트에서는 Tanzu Cluster를 단일 홈랩 vSphere 서버에 올려본다"
+slug: kubernetes/vSphere-with-Tanzu-homelab/
+date: 2020-11-30
 categories:
   - Kubernetes
 tags:

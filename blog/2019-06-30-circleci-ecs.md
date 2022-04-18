@@ -3,6 +3,8 @@ layout: single
 title: "CircleCI로 AWS BATCH(ECS) CI/CD Pipeline 구성"
 comments: true
 classes: wide
+slug: devops/circleci-ecs/
+date: 2019-06-30
 categories:
   - DevOps
 tags:

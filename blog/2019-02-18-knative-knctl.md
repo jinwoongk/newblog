@@ -4,6 +4,8 @@ title: "Knative CLI - knctl"
 comments: true
 classes: wide
 description: "Knative CLI tool knctl에 대해 알아보자"
+slug: kubernetes/knative-knctl/
+date: 2019-02-18
 categories:
   - Kubernetes
 tags:

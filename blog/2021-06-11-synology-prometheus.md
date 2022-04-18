@@ -4,6 +4,8 @@ title: "Synology monitoring with Prometheus and snmp exporter"
 comments: true
 classes: wide
 description: "Prometheus로 시놀로지 NAS Monitoring하는 방법 정리"
+slug: /prometheus/synology-prometheus/
+date: 2021-06-11
 categories:
   - prometheus
 tags:

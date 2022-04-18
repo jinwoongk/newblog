@@ -4,6 +4,8 @@ title: "eksworkshop"
 comments: true
 classes: wide
 description: "eskworkshop 튜토리얼을 실행하고 간단한 Microservice앱을 배포해보자"
+slug: kubernetes/eksworkshop/
+date: 2019-03-29
 categories:
   - Kubernetes
 tags:

@@ -4,6 +4,8 @@ title: "Knative on EKS"
 comments: true
 classes: wide
 description: "EKS에서도 Knative를 구성해보자"
+slug: kubernetes/knative-on-aws/
+date: 2019-05-14
 categories:
   - Kubernetes
 tags:

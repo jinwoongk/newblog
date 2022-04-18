@@ -4,6 +4,8 @@ title: "What is Tailscale?"
 comments: true
 classes: wide
 description: "wireguard와 tailscale을 비교하고 kubernetes 환경에서 활용방안 검토"
+slug: kubernetes/what-is-tailscale/
+date: 2022-02-05
 categories:
   - Kubernetes
 tags:

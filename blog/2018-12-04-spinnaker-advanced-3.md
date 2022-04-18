@@ -4,6 +4,8 @@ title: "Spinnaker on Kubernetes #3 (Kayenta)"
 comments: true
 classes: wide
 description: "Spinnaker에 대해 알아봅니다 #3 (Kayenta)"
+slug: kubernetes/spinnaker-advanced-3/
+date: 2018-12-04
 categories:
   - Kubernetes
 tags:

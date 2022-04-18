@@ -4,6 +4,8 @@ title: "VScode Server"
 comments: true
 classes: wide
 description: "code-server를 사용하여 로컬 VScode 설치없이 원격 환경에서 사용해보자."
+slug: tools/vscode-server/
+date: 2019-03-20
 categories:
   - Tools
 tags:

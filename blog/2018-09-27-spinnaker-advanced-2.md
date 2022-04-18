@@ -4,6 +4,8 @@ title: "Spinnaker on Kubernetes #2"
 comments: true
 classes: wide
 description: "Spinnaker에 대해 알아봅니다 #2"
+slug: kubernetes/spinnaker-advanced-2/
+date: 2018-09-27
 categories:
   - Kubernetes
 tags:

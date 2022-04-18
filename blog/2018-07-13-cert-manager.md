@@ -4,6 +4,8 @@ title: "Cert-manager"
 comments: true
 classes: wide
 description: "Cert-manager에 대해 알아봅니다"
+slug: kubernetes/cert-manager/
+date: 2018-07-13
 categories:
   - Kubernetes
 tags:

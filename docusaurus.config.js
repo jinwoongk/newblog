@@ -95,7 +95,7 @@ const TwitterSvg =
         hideOnScroll: true,
         logo: {
          alt: 'Cloud Catalyst',
-         src: 'img/logo_transparent.svg',
+         src: 'img/logo-catalyst.svg',
         },
         items: [
           {to: '/', label: 'Posts', position: 'left'}, 

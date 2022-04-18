@@ -4,6 +4,8 @@ title: "Provisioning Dedicated Game Server on Kubernetes Cluster"
 comments: true
 classes: wide
 description: "Provisioning Dedicated Game Server on Kubernetes Cluster"
+slug: kubernetes/openinfraday18/
+date: 2018-07-01
 categories:
   - Kubernetes
 tags:

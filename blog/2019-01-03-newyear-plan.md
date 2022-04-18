@@ -4,6 +4,8 @@ title: "2018 Retrospective"
 comments: true
 classes: wide
 description: "18년도를 돌아보며..."
+slug: retrospective/newyear-plan/
+date: 2019-01-03
 categories:
   - Retrospective
 tags:

@@ -7,6 +7,8 @@ description: "EKS Anywhere 로 구성된 쿠버네티스 클러스터 활용 "
 authors: jinwoong
 toc: true
 toc_label: Table of Contents
+slug: kubernetes/eks-anywhere-adv/
+date: 2022-03-18
 categories:
   - Kubernetes
 tags:

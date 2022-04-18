@@ -3,6 +3,8 @@ layout: single
 classes: wide
 title: "Mutating Webhook"
 description: "Mutating Webhook에 대해 알아봅니다"
+slug: kubernetes/mutating-web-hook/
+date: 2018-06-27
 categories:
   - Kubernetes
 tags:
