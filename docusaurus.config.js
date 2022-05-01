@@ -77,9 +77,9 @@ const TwitterSvg =
         dataAdClient: 'ca-pub-4362752107119680',
       },
       algolia: {
-        appId: 'J5EMWGFKQM',
-        apiKey: '52ea61272cff782f343b0f6b14e67e14',
-        indexName: 'blog',
+        appId: 'UTLA0DRN66',
+        apiKey: 'f04922856dcd61505849b49a5bba97d8',
+        indexName: 'ddii',
   
         // Optional: see doc section below
         contextualSearch: true,
