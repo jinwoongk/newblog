@@ -102,12 +102,12 @@ const TwitterSvg =
 
           {
             type: 'dropdown',
-            to: 'docs/intro',
-            docId: 'intro',
+            to: 'docs/prometheus/introduction',
+            docId: 'introduction',
             position: 'left',
             label: 'Docs',
             items: [
-              {to: 'docs/intro', label: 'Intro'},
+              {to: 'docs/prometheus/introduction', label: 'Prometheus'},
             ],
           }, 
           {
