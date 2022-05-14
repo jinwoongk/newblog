@@ -43,4 +43,6 @@ jobs:
       - name: Copy To Branches ads.txt
         uses: planetoftheweb/copy-to-branches@v1
         env:
+          branches: gh-pages
+          key: main
           files: ads.txt
