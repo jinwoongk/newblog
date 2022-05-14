@@ -40,7 +40,6 @@ jobs:
           git config --global user.name "ddiiwoong"
           yarn install --frozen-lockfile
           yarn deploy
-          - uses: actions/checkout@master
       - name: Copy To Branches ads.txt
         uses: planetoftheweb/copy-to-branches@v1
         env:
