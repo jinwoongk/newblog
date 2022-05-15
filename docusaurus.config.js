@@ -17,7 +17,7 @@ const TwitterSvg =
   organizationName: 'ddiiwoong',
   projectName: 'newblog',
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
   // i18n: {
   //   defaultLocale: "ko",
   //   locales: ["ko"],
