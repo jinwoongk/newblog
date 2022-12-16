@@ -18,7 +18,7 @@ tags:
   - Terraform
 ---
 
-## # EKS CNI Networking 제약사항
+## EKS CNI Networking 제약사항
 
 [https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/cni-custom-network.html#custom-networking-automatically-apply-eniconfig](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/cni-custom-network.html#custom-networking-automatically-apply-eniconfig)  
   
@@ -27,6 +27,8 @@ AWS에는 기본 ENI가 포함된 서브넷에서 사용할 수 있는 IP개수�
 CNI Custom Networking이 활성화가 되면 파드는 다른 서브넷에 생성이 되고, 노드 서브넷의 아이피를 사용하지 않는다.
 
 EKS에서 파드 대역을 분리 하기 위해서 CNI Custom Networking 설정을 진행한다. 해당 env 값을 변경하면 즉시 aws-node 가 교체된다.
+
+<!--truncate-->
   
 ```
 kubectl set env daemonset aws-node -n kube-system AWS_VPC_K8S_CNI_CUSTOM_NETWORK_CFG=true
