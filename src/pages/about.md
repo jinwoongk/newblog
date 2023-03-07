@@ -45,22 +45,7 @@ author_profile: true
   * Cloud Service Development Team(First Half), Cloud Z Unit(Second Half)
     * Service Game Part Leader & Scrum Master
     * Serverless Platform SRE
-      * Cloud Z Action (https://www.cloudz.co.kr/product/cloudZaction)
     * Infra as Code Platform SRE
-      * Cloud Z Composer (https://skcloud.github.io/zcomposer/)
-    * Cloud Z Service Platform Landing Page Dev. (https://skcloud.github.io/)
-    * Dedicated Game Server Hosting on K8s R&D (https://github.com/GoogleCloudPlatform/agones)
-  * Experience
-    * Public Cloud : AWS, DigitalOcean, IBM Cloud, GCP, Azure, Cloud Z
-    * Private Cloud : vSphere 6.0, OpenStack Newton
-    * Provisioning : Harbor, Ansible, Portus, Clair, Kubicorn, Terraform, Vault
-    * Runtime : Rook, Minio, OpenEBS, Calico, REX-ray, WeaveNet, Cilium
-    * Orchestration : Kubernetes, Envoy, etcd, gRPC, Kong, HAProxy, Istio, Kong, NGINX, Traefik
-    * App : NATS, Helm, Kafka, Docker-compose, Draft, Gitlab, minikube, Operator, Jenkins, JenkisX, Packer, RabbitMQ, Spinnaker
-    * Serverless : Dispatch, Fission, Knative, Nuclio, OpenWhisk, OpenFaas
-    * Monitoring, Logging : Prometheus, Fluentd, Elastic, Grafana, influx, WeaveScope
-    * Language : Python, Go, Node.js
-    * Etc : Cert-Manager, Dex, Agones
 
 * 2017.1 ~ 2017.12
   * Next-Generation Cloud Tech.
@@ -71,15 +56,6 @@ author_profile: true
         * vSphere -> OpenStack Migration Platfrom Develop
       * Deep Learning Platform Develop
         * Nvidia Tesla GPU Cloud Platform Develop
-  * Experience
-    * Public Cloud : IBM Cloud, Cloud Z
-    * Private Cloud : vSphere 6.5, OpenStack Newton
-    * Provisioning : Harbor, Ansible
-    * Runtime : Minio, Calico, rclone
-    * Orchestration : Kubernetes, etcd, HAProxy
-    * App : Kafka, Docker-compose, Gitlab, minikube
-    * Monitoring, Logging : cAdvisor, Prometheus, Fluentd
-    * Language : Python
 
 ## Samsung SDS
 
@@ -123,18 +99,3 @@ author_profile: true
       * 무선사업부, VDI사업부, R&D연구소
     * 삼성전자 무선사업부 분산빌드 인프라구축
       * Citrix 메타프레임, Perforce 연계를 통한 멀티 업무환경 구축(‘09년 07~10월)
-
-* 활용기술
-  * 인프라운영기술 
-    * Network, Security Management 
-      * FW, LB, IDS/IPS. WebProxy, WAF
-    * System Engineering 
-      * NT(Active Directory), Linux(Ubuntu, Redhat)
-      * Hypervisor : vSphere, XenServer, Hyper-V, OpenStack(Essex(EOL), Folsom(EOL))
-      * VMware가상화 운영(NSX, vSAN, vRops, LogInsight)
-      * VDI구축/운영(XenDesktop 4/5, VMware View 5)
-      * 아키텍처설계 : x86 기반 IaaS 인프라 설계(NFV, SDN), 클라우드 호스팅 아키텍처 구축(VMware)
-
-* 자격사항
-  * SCJP, CCNP, VCP5-DCV, VCP5-DT, VCAP5-DCA
-
